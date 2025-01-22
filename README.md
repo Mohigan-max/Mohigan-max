@@ -1,4 +1,5 @@
 Hello, I'm Maurice williams jr 
+
 <a href="https://profile.indeed.com/p/mauricew-59mrc5d"><img src="https://img.shields.io/badge/-Indeed%20-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>  <a href="www.linkedin.com/in/maurice-williams-jr-45b695347"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 currently new to It and cyber surcurity 
